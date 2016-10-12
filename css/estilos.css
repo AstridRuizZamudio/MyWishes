@@ -1,0 +1,13 @@
+/* 12/10/2016*/
+body
+{
+	background:#F5F5DC; /* Color del fondo: Beige */
+	color:#000000;  /* Color de la letra: Black */
+}
+div
+{
+		background:#d2d260;
+		width:80%;
+		padding:5px;
+		margin:5px;
+}
