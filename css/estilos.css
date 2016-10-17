@@ -1,13 +1,14 @@
 /* 12/10/2016*/
 body
 {
-	background:#F5F5DC; /* Color del fondo: Beige */
+	background:#FDF5E6; /* Color del fondo: Beige */
 	color:#000000;  /* Color de la letra: Black */
 }
 div
 {
-		background:#d2d260;
-		width:80%;
+		background:#fbecd0;
+		width:50%;
 		padding:5px;
 		margin:5px;
+		display:inline-block; --Se pone un bloque al lado del otro
 }
